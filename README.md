@@ -19,11 +19,6 @@ When I'm not optimizing a database query or debugging code, you can find me lift
 *   Developing complex, full-stack SaaS projects to push the boundaries of my architecture skills.
 *   Constantly improving my problem-solving skills through data structures and algorithms.
 
-### 📈 GitHub Stats
-
-!(https://github-readme-stats.vercel.app/api?username=ibrahimkanan&show_icons=true&theme=radium)
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimkanan&layout=compact&theme=radium)
-
 ### 📫 How to reach me
 
 *   **LinkedIn:** www.linkedin.com/in/ibrahim-kanaan-a37277301
