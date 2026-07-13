@@ -22,5 +22,5 @@ When I'm not optimizing a database query or debugging code, you can find me lift
 ### 📫 How to reach me
 
 *   **LinkedIn:** www.linkedin.com/in/ibrahim-kanaan-a37277301
-*   **Portfolio:** [Link to your Portfolio]
+*   **Portfolio:** [Working on it!]
 *   **Email:** ibrahimkanan20@outlock.com
