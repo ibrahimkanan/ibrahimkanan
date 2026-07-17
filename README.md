@@ -23,4 +23,4 @@ When I'm not optimizing a database query or debugging code, you can find me lift
 
 *   **LinkedIn:** www.linkedin.com/in/ibrahim-kanaan-a37277301
 *   **Portfolio:** [Working on it!]
-*   **Email:** ibrahimkanan20@outlock.com
+*   **Email:** ibrahimkanan20@outlook.com
